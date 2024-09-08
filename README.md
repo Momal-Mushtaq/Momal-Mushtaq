@@ -1,24 +1,87 @@
-<h1 align="center">Hi 👋, I'm Momal Mushtaq</h1>
-<h3 align="center">I’m passionate about mobile app development with Flutter and Dart, and UI/UX design.</h3>
+<h1 align="center" style="color:#6C63FF;">Hi 👋, I'm Momal Mushtaq</h1>
+<h3 align="center" style="color:#FF6584;">I’m passionate about mobile app development with Flutter and Dart, and UI/UX design.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momal-mushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="momal-mushtaq" /> </p>
-
-- 🌱 I’m currently learning **State management with Provider, Bloc, GetX and exploring new mobile development features.**
-
-- 👯 I’m looking to collaborate on **mobile app projects and UI/UX design.**
-
-- 📫 Reach me on **www.linkedin.com/in/ momal-mushtaq-80586a208**
-
-- ⚡ Fun fact **I love exploring tech trends and making engaging YouTube content!**
-
-<img align="right" alt="coding" width="400" src="https://www.canva.com/design/DAGQM46cJQY/EBKQTPuPT3iI8f744zvb3w/watch?utm_content=DAGQM46cJQY&utm_campaign=designshare&utm_medium=link&utm_source=editor">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ momal-mushtaq-80586a208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ momal-mushtaq-80586a208" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@bedtimestories31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bedtimestories31" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=momal-mushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<!-- Divider Line -->
+<hr style="border:1px solid #ddd; width:75%;">
 
+<!-- Extended Introduction Section -->
+<p align="left" style="font-size:18px; line-height: 1.6;">
+  🌱 I’m currently learning <strong>State management with Provider, Bloc, GetX</strong> and exploring new mobile development features to enhance app performance and maintainability.<br><br>
+  
+  🚀 I’m passionate about building intuitive, user-friendly mobile applications that solve real-world problems and improve user experiences.<br><br>
+  
+  👩‍💻 I’m constantly honing my skills in <strong>UI/UX design</strong> to ensure visually appealing and functional designs that elevate the end-user experience.<br><br>
+  
+  👯 I’m looking to collaborate on <strong>exciting mobile app projects</strong>, whether it's a startup idea, a personal project, or part of a larger team.<br><br>
+  
+  💡 I enjoy brainstorming innovative ideas and turning them into fully functioning applications with <strong>Flutter and Dart</strong>.<br><br>
+  
+  📫 Feel free to reach out to me on <a href="https://linkedin.com/in/momal-mushtaq-80586a208" target="_blank" style="color:#6C63FF;"><strong>LinkedIn</strong></a> for potential collaboration or networking.<br><br>
+  
+  🎨 I also have a strong interest in <strong>graphic design and content creation</strong>, which allows me to bring a unique perspective to mobile app design.<br><br>
+  
+  ⚡ Fun fact: I love exploring tech trends, creating engaging YouTube content, and constantly learning new things in the world of technology!
+</p>
+<!-- Divider Line -->
+<hr style="border:1px solid #ddd; width:100%;">
+
+<!-- Profile Image on the Right -->
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/79e40639-5062-4548-a05f-5fafbd26209a" style="border-radius: 25px; margin: 30px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+
+<!-- Connect with Me Section -->
+<h3 align="left" style="color:#6C63FF;">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/momal-mushtaq-80586a208" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Momal Mushtaq LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/https://www.youtube.com/@bedtimestories31" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Momal Mushtaq YouTube" height="30" width="40" />
+  </a>
+</p>
+
+<!-- Languages and Tools Section -->
+<h3 align="left" style="color:#FF6584;">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+</p>
+
+<!-- Footer Section with CTA -->
+<div align="left" style="background-color:#F3F4F6; padding: 10px; border-radius: 15px; margin: 20px;">
+  <p style="color:#4A4E69; font-size: 16px;">🚀 Let's build something great together!</p>
+</div>
