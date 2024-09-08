@@ -1,4 +1,5 @@
-<h1 align="center" style="color:#6C63FF;">Hi 👋, I'm Momal Mushtaq</h1>
+![logo](https://github.com/Momal-Mushtaq/Momal-Mushtaq/blob/main/White%20and%20Yellow%20Geometric%20Real%20Estate%20with%20Circle%20Frame%20LinkedIn%20Banner%20(6).png)
+<h1 align="center" style="color:#6C63FF;">Hello 👋, Friends</h1>
 <h3 align="center" style="color:#FF6584;">I’m passionate about mobile app development with Flutter and Dart, and UI/UX design.</h3>
 
 <div align="center">
@@ -42,6 +43,10 @@
   <a href="https://www.youtube.com/c/https://www.youtube.com/@bedtimestories31" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Momal Mushtaq YouTube" height="30" width="40" />
   </a>
+  <a href="https://www.instagram.com/ameliyah_31/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Momal Mushtaq Instagram" height="30" width="40" />
+</a>
+
 </p>
 
 <!-- Languages and Tools Section -->
