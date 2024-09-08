@@ -1,28 +1,29 @@
 <h1 align="center" style="color:#6C63FF;">Hi 👋, I'm Momal Mushtaq</h1>
 <h3 align="center" style="color:#FF6584;">I’m passionate about mobile app development with Flutter and Dart, and UI/UX design.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=momal-mushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+<div align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/momal-mushtaq">
+    <img src="https://img.shields.io/badge/Followers-10k-brightgreen?style=for-the-badge&logo=github" alt="GitHub Follow" style="max-width: 100%;">
+  </a>
+</div>
+
 
 <!-- Divider Line -->
 <hr style="border:1px solid #ddd; width:75%;">
 
 <!-- Extended Introduction Section -->
 <p align="left" style="font-size:18px; line-height: 1.6;">
-  🌱 I’m currently learning <strong>State management with Provider, Bloc, GetX</strong> and exploring new mobile development features to enhance app performance and maintainability.<br><br>
+  🌱 I’m currently learning <strong>State management with Provider, Bloc, GetX</strong> and exploring new mobile development features to enhance app performance and maintainability.<br>
   
-  🚀 I’m passionate about building intuitive, user-friendly mobile applications that solve real-world problems and improve user experiences.<br><br>
+  🚀 I’m passionate about building intuitive, user-friendly mobile applications that solve real-world problems and improve user experiences.<br>
+    
+  👯 I’m looking to collaborate on <strong>exciting mobile app projects</strong>, whether it's a startup idea, a personal project, or part of a larger team.<br>
   
-  👩‍💻 I’m constantly honing my skills in <strong>UI/UX design</strong> to ensure visually appealing and functional designs that elevate the end-user experience.<br><br>
+  💡 I enjoy brainstorming innovative ideas and turning them into fully functioning applications with <strong>Flutter and Dart</strong>.<br>
   
-  👯 I’m looking to collaborate on <strong>exciting mobile app projects</strong>, whether it's a startup idea, a personal project, or part of a larger team.<br><br>
+  📫 Feel free to reach out to me on <a href="https://linkedin.com/in/momal-mushtaq-80586a208" target="_blank" style="color:#6C63FF;"><strong>LinkedIn</strong></a> for potential collaboration or networking.<br>
   
-  💡 I enjoy brainstorming innovative ideas and turning them into fully functioning applications with <strong>Flutter and Dart</strong>.<br><br>
-  
-  📫 Feel free to reach out to me on <a href="https://linkedin.com/in/momal-mushtaq-80586a208" target="_blank" style="color:#6C63FF;"><strong>LinkedIn</strong></a> for potential collaboration or networking.<br><br>
-  
-  🎨 I also have a strong interest in <strong>graphic design and content creation</strong>, which allows me to bring a unique perspective to mobile app design.<br><br>
+  🎨 I also have a strong interest in <strong>graphic design and content creation</strong>, which allows me to bring a unique perspective to mobile app design.<br>
   
   ⚡ Fun fact: I love exploring tech trends, creating engaging YouTube content, and constantly learning new things in the world of technology!
 </p>
@@ -30,7 +31,7 @@
 <hr style="border:1px solid #ddd; width:100%;">
 
 <!-- Profile Image on the Right -->
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/79e40639-5062-4548-a05f-5fafbd26209a" style="border-radius: 25px; margin: 30px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/79e40639-5062-4548-a05f-5fafbd26209a" style="border-radius: 25px; margin: 30px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);"><br>
 
 <!-- Connect with Me Section -->
 <h3 align="left" style="color:#6C63FF;">Connect with me:</h3>
@@ -82,6 +83,6 @@
 </p>
 
 <!-- Footer Section with CTA -->
-<div align="left" style="background-color:#F3F4F6; padding: 10px; border-radius: 15px; margin: 20px;">
+<div align="left" style="background-color:#F3F4F6; padding: 10px; border-radius: 15px; margin: 20px;"><br><br>
   <p style="color:#4A4E69; font-size: 16px;">🚀 Let's build something great together!</p>
 </div>
