@@ -1,11 +1,16 @@
 👋 Hi, I’m @Momal-Mushtaq
-👀 I’m interested in mobile app development, particularly with Flutter and Dart, as well as UI/UX design.
-🌱 I’m currently learning more about state management in Flutter using the Provider package and exploring new features in mobile development.
-💞️ I’m looking to collaborate on projects related to mobile app development, especially those that involve Flutter or UI/UX design.
-📫 How to reach me: You can reach me through my LinkedIn profile www.linkedin.com/in/
-momal-mushtaq-80586a208
+
+👀 I’m passionate about mobile app development with Flutter and Dart, and UI/UX design.
+
+🌱 Currently learning state management with Provider and exploring new mobile development features.
+
+💞️ Open to collaborations on mobile app projects and UI/UX design.
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/momal-mushtaq-80586a208)
+
 😄 Pronouns: She/Her
-⚡ Fun fact: I love exploring new tech trends and integrating them into my projects. I also enjoy creating short, engaging content for YouTube!
+
+⚡ Fun fact: I love exploring tech trends and making engaging YouTube content!
 
 <!---
 Momal-Mushtaq/Momal-Mushtaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
