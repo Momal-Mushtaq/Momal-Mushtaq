@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![logo](https://github.com/Momal-Mushtaq/Momal-Mushtaq/blob/main/White%20and%20Yellow%20Geometric%20Real%20Estate%20with%20Circle%20Frame%20LinkedIn%20Banner%20(6).png)
+![logo](https://github.com/Momal-Mushtaq/Momal-Mushtaq/blob/203b911c10533c824df940018452cb7d444d8ae5/White%20and%20Yellow%20Geometric%20Real%20Estate%20with%20Circle%20Frame%20LinkedIn%20Banner%20(2).png)
 
 <h1 align="center" style="color:#6C63FF;">Hello 👋, Friends</h1>
 <h3 align="center" style="color:#FF6584;">I'm passionate about Software Quality Assurance, Testing, and UI/UX precision.</h3>
